@@ -1,3 +1,4 @@
+"use client"
 import CaptchaComponent from "./components/CaptchaComponent";
 
 export default function Home() {
